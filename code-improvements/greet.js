@@ -1,1 +1,1 @@
-const greet = (name)=>`Hello${name?", "+name:""}!`
+const greet = (name) => `Hello${ name ?", " + name : ""}!`;

@@ -1,3 +1,1 @@
-const maxNumber = (...numbers) => Math.max(...numbers)
-
-  
+const maxNumber = (...numbers) => Math.max(...numbers);

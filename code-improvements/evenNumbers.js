@@ -1,2 +1,2 @@
 const findEvenNumbers = (numbers)=> 
-    numbers.filter((number)=>number%2===0);
+    numbers.filter((number) => number % 2 === 0);

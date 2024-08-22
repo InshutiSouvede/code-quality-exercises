@@ -1,3 +1,7 @@
 const calculateFactorial = (n)=>{
-    return new Array(n).fill(0).reduce((ac,cv,i)=>ac*(i+1),1)
+    let factorial = 1
+    for(let i=2; i<=n; i++){
+        factorial *=i
+    }
+    return factorial
 }
