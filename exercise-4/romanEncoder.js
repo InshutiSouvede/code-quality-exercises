@@ -1,4 +1,4 @@
-function solution(number){
+function romanNumeralencoder(number){
     const thousands = Math.floor(number/1000)%10
     const hundreds = Math.floor(number/100)%10
     const tens = Math.floor(number/10)%10
