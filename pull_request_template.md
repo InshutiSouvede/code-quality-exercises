@@ -1,6 +1,7 @@
 ## Description
 
-Please include a summary of the changes and the related issue. Mention any dependencies, if applicable.
+Please include a summary of the changes and the related issue. 
+Mention any dependencies, if applicable.
 
 
 ## Type of Change
